@@ -1,0 +1,9 @@
+com/everis/features/examples/GenericosTest.java
+ com.everis.features.examples.GenericosTest
+com/everis/features/examples/ExamplesTddTest.java
+ com.everis.features.examples.ExamplesTddTest
+ com.everis.features.examples.ExamplesTddTest$1
+com/everis/features/JavaFeaturesApplicationTests.java
+ com.everis.features.JavaFeaturesApplicationTests
+com/everis/features/examples/EjemplosStreamTest.java
+ com.everis.features.examples.EjemplosStreamTest

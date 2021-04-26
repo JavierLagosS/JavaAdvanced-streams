@@ -1,0 +1,34 @@
+com/everis/features/domain/Sexo.java
+ com.everis.features.domain.Sexo
+com/everis/features/domain/Automovil.java
+ com.everis.features.domain.Automovil
+com/everis/features/domain/Persona.java
+ com.everis.features.domain.Persona
+com/everis/features/genericos/ClaseGenericaService.java
+ com.everis.features.genericos.ClaseGenericaService
+com/everis/features/genericos/Genericos.java
+ com.everis.features.genericos.Genericos
+com/everis/features/genericos/ClaseGenericaServiceImpl.java
+ com.everis.features.genericos.ClaseGenericaServiceImpl
+com/everis/features/genericos/ArrayGenerico.java
+ com.everis.features.genericos.ArrayGenerico
+com/everis/features/genericos/Suv.java
+ com.everis.features.genericos.Suv
+com/everis/features/genericos/Automovil.java
+ com.everis.features.genericos.Automovil
+com/everis/features/genericos/ClaseGenerica.java
+ com.everis.features.genericos.ClaseGenerica
+com/everis/features/JavaFeaturesApplication.java
+ com.everis.features.JavaFeaturesApplication
+com/everis/features/fi/VehiculoFI.java
+ com.everis.features.fi.VehiculoFI
+com/everis/features/genericos/Sedan.java
+ com.everis.features.genericos.Sedan
+com/everis/features/genericos/Dimension.java
+ com.everis.features.genericos.Dimension
+com/everis/features/domain/Modelo.java
+ com.everis.features.domain.Modelo
+com/everis/features/streams/StreamsServiceImpl.java
+ com.everis.features.streams.StreamsServiceImpl
+com/everis/features/streams/StreamsService.java
+ com.everis.features.streams.StreamsService

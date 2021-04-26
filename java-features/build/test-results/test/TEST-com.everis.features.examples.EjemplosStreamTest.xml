@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.everis.features.examples.EjemplosStreamTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-26T19:31:29" hostname="DESKTOP-D1F8RU3" time="0.045">
+  <properties/>
+  <testcase name="sextoEjercicio()" classname="com.everis.features.examples.EjemplosStreamTest" time="0.045"/>
+  <system-out><![CDATA[[1, 4, 9, A, B, Y, Z, a, c]]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
